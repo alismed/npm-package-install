@@ -1,5 +1,6 @@
 #!/bin/bash
 
+npm install -g artillery
 npm install -g markdown-preview
 npm install -g express
 npm install -g async
