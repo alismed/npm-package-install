@@ -18,4 +18,5 @@ npm install -g less
 npm install -g jshint
 npm install -g webpack
 npm install -g angularjs
+npm install -g newman
 
